@@ -46,6 +46,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
+        <td><img src="docs/AIGC/assets/logo.jpg" alt="Icon" width="64" height="auto" /></td>
+        <td><a href="https://github.com/Magic-Abracadabra/AI-Chinese-Scripting-Language">AIGC Chinese Scripting Language</a></td>
+        <td>This is a quick test of Chinese Scripting Language powered by AI. You can use it to open any text file. No illegal use is allowed! Free for commercial use and academic use.</td>
+    </tr>
+    <tr>
         <td><img src="docs/operit/assets/logo.png" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://github.com/AAswordman/Operit">Operit AI</a></td>
         <td>An open-source system integration AI assistant for the Android platform, supporting almost complete mcp usage and highly compatible with the Android system. The software features both high customization and a low learning threshold, with built-in tools for file operations, searches, automatic clicks, format conversions, and an integrated DeepSeek API webpage.</td>
